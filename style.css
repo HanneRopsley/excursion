@@ -3,7 +3,21 @@ body {
     color: white;
 }
 
-h1, a {
+h1,p,h3 {
     text-align: center;
 }
 
+a {
+    color: rgb(127, 255, 212);
+}
+
+video, img {
+    display: block;
+    margin: auto;
+}
+
+
+#footer {
+    text-align: end;
+    color: grey;
+}
